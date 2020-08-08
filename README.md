@@ -9,4 +9,4 @@ costoFijo: costo fijo que se agrega al presupuesto, si la conexión involucra ci
 
 
 para este trabajo practico implementamos e incluimos las estructuras de grafos
-y tambien incluimos interfaz visual usando Swing Designer
+para la parte visual de la app usamos la interfaz de Windows Builder
