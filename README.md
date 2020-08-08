@@ -6,3 +6,6 @@ Para realizar este calculo la aplicación debe tomar los siguientes parámetros:
 costKM: costo monetario por cada km de la conexión.
 PorcentajeAdicional: Porcentaje adicional que se añadirá al costo que ya se tenia, si es que la conexión es mayor o igual a los 300 km.
 costoFijo: costo fijo que se agrega al presupuesto, si la conexión involucra ciudades de 2 ó mas provincias.
+
+
+para este trabajo practico implementamos e incluimos las estructuras de grafos
